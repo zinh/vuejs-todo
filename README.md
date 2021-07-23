@@ -9,5 +9,5 @@ A simple Todo app to learn VueJS.
 ## Ideas for improvement
 
 - Implement server
-- Use authentication
+- User authentication
 - Live sync todo across devices
